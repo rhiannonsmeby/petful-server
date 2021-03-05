@@ -1,7 +1,7 @@
 # Petful Server
 
 ### Live App:
-### Client Repo:
+### Client Repo: https://github.com/rhiannonsmeby/petful-client
 
 ### Summary
 

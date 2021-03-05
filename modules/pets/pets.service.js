@@ -28,6 +28,11 @@ module.exports = {
     if (type === 'dog') {
       pets.dogs.dequeue();
     }
-    pets.cats.dequeue();
+    else if (type === 'cat') {
+      pets.cats.dequeue();
+    }
+    else {
+      return;
+    }
   }
 }
