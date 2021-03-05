@@ -40,7 +40,7 @@ Returns the animals ready for adoption
 ```javascript
 DELETE /pets
 ```
-Deletes addopted pets from the list
+Deletes adopted pets from the list
 
 #### Status codes
 * 200 OK
